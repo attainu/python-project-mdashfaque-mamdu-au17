@@ -16,7 +16,7 @@ class TurnPlayers:
         # TIME
         if pos == 100:
             print(player, win_message)
-            print(f"AT WINNING {player} was at {pos}")
+            print(f"AT WINNING {player} was at {pos}\n")
             return False, pos, 'winner'
 
         # IF PLAYER HAS NOT QUIT THE GAME AND ALSO HE HAS NOT REACHED HOME
