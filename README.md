@@ -12,6 +12,6 @@ This is Terminal/Text Based Game.
 # Usage
 
 1. Download ZIP or Clone the Repository
-2. Find main.py in snake-ladder/main.py and Run it
+2. Find mainFunction.py in snake-ladder/main.py and Run it
 3. Give Appropriate Inputs
 4. Enjoy the Game
